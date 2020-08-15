@@ -1,2 +1,3 @@
-# FtoC
-Fahrenheit to Celcius
+# CtoF
+Celcius to Fahrenheit
+A simple tool for converting Celcius to Fahrenheit
